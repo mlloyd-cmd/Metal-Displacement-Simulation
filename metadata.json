@@ -1,0 +1,5 @@
+{
+  "name": "Metal Displacement Lab",
+  "description": "A virtual chemistry lab to visualize the reaction between Zinc and Copper(II) Sulfate, featuring real-time data trending and AI-assisted analysis.",
+  "requestFramePermissions": []
+}
